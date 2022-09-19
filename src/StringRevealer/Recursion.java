@@ -1,12 +1,9 @@
 /**
  *
  *  @author jgold
- *   Joseph Goldberger - 21958283
- *   For COMP 352 Section H - Fall 2020
- *   Assignment 1 - version 1
- *   Due Date: September 28, 2020
+ *   Joseph Goldberger 
  *
- *   This is version 1 of the programming part for assignment 1. My program has a
+ *    My program has a
  *   static void RevealStr method has takes a binary string as input and an index of 0.
  *   It will then detect any masks (*) in the binary string and output all possible
  *   binary combinations into either a file or just the console depending on length
