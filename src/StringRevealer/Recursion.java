@@ -3,8 +3,7 @@
  *  @author jgold
  *   Joseph Goldberger 
  *
- *    My program has a
- *   static void RevealStr method has takes a binary string as input and an index of 0.
+ *    My program has a static void RevealStr method has takes a binary string as input and an index of 0.
  *   It will then detect any masks (*) in the binary string and output all possible
  *   binary combinations into either a file or just the console depending on length
  *   . It does this by recursion. In the main part of the program,
